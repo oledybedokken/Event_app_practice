@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favspot.ico" />
       </Head>
       <main className={styles.main}>
+        
         <h1>
           Welcome
         </h1>

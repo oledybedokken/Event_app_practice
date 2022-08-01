@@ -1,7 +1,7 @@
-const Navbar = ({ children }) => {
+const Navbar = () => {
     return (
         <div className="content">
-            {children}
+            
         </div>
     )
 

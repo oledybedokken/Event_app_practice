@@ -9,7 +9,6 @@ function fyp() {
     function handleClick() {
         setLikes(likes + 1);
     }
-
     return (
         <div>
             <ul>
