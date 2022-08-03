@@ -1,10 +1,12 @@
 import { signInWithPopup,GoogleAuthProvider,signOut } from "@firebase/auth";
 import { async } from "@firebase/util";
 import Head from "next/head";
-import { auth } from "../lib/firebase";
+import { auth, googleAuthProvider } from "../lib/firebase";
 
-export default function EnterPage({}) {
-    return(
+export default function EnterPage({ }) {
+    const user = null;
+    const username = null;
+    return (
         <main>
             <h1>Enter</h1>
             <SignInButton/>

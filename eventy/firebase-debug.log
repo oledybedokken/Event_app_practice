@@ -1,0 +1,25 @@
+[debug] [2022-08-02T17:14:00.783Z] ----------------------------------------------------------------------
+[debug] [2022-08-02T17:14:00.785Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\oledy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-02T17:14:00.785Z] CLI Version:   11.4.1
+[debug] [2022-08-02T17:14:00.785Z] Platform:      win32
+[debug] [2022-08-02T17:14:00.785Z] Node Version:  v18.2.0
+[debug] [2022-08-02T17:14:00.786Z] Time:          Tue Aug 02 2022 19:14:00 GMT+0200 (Central European Summer Time)
+[debug] [2022-08-02T17:14:00.786Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-02T17:14:00.826Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-02T17:14:00.827Z] > authorizing via signed-in user (surfacenowy@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\oledy\OneDrive\Documents\Koding\morsomtkoding\Event_app_practice\eventy
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
